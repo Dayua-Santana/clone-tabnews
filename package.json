@@ -1,0 +1,16 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Replicando o Tabnews no intuito de entender como funciona toda a estruturação desse site e adquire mais conhecimento.",
+  "main": "index.js",
+  "scripts": {
+    "dev":"next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
